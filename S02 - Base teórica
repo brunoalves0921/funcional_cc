@@ -1,0 +1,19 @@
+# Jorge Bruno Costa Alves - 509718
+## Paradigmas de programação
+##
+>Pesquisa breve que visa entender melhor os paradigmas de programação 
+e os exemplos de onde usar cada um deles.
+
+## Paradigmas
+    
+    Definição: estilo de programação, a forma como você descreve a solução computacional de um problema.
+    Muitos cursos de Computação e Engenharia iniciam com paradigma imperativo e estruturado (vide Processamento da Informação e Programação Estruturada).
+
+    Exemplo clássico da receita de bolo (que não é a melhor forma de descrever o conceito de algoritmo).
+
+- Imperativo: Um programa é uma sequência de comandos que alteram o estado atual do sistema até atingir um estado final
+- Estruturado: programas com uma estrutura de fluxo de controle e uso de procedimento e funções.
+- Orientado objeto: organização através de objetos que contém dados, estados próprios e métodos que alteram ou recuperam os dados/estados. Os objetos comunicam entre si para compor a lógica do programa.
+- Declarativo: especifica o que você quer, mas sem detalhar como fazer.
+- Funcional: programas são avaliações de funções matemáticas sem alterar estados e com dados imutáveis.
+- Lógico: especifica-se um conjunto de fatos e regras, o interpretador infere respostas para perguntas sobre o programa.
