@@ -1,0 +1,1 @@
+max3 x y z = max (max x y) z

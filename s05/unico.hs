@@ -1,0 +1,1 @@
+unico n lista = 1 == length (filter (==n) lista)

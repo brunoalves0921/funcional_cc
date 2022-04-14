@@ -1,0 +1,1 @@
+dividir list n = [take n list, drop n list]

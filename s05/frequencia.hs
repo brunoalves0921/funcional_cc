@@ -1,0 +1,1 @@
+freq n lista = length(filter (==n) lista)

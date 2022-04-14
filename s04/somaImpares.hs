@@ -1,0 +1,1 @@
+somaImpares list = sum $ filter (\x -> mod x 2 /= 0) list

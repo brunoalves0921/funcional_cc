@@ -1,0 +1,1 @@
+maioresQue n lista = filter (\x -> x > n) lista

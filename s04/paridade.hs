@@ -1,0 +1,1 @@
+paridade list = (length (filter (==True) list)) `mod` 2 /= 0

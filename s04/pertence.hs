@@ -1,0 +1,1 @@
+pertence n list = elem n list
