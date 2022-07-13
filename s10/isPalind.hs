@@ -1,0 +1,1 @@
+isPalind s = s == reverse s
